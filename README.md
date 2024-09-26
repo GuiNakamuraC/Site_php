@@ -1,7 +1,5 @@
-*USUÁRIO*
+**USUÁRIO**
+#guilherme@gmail.com
 
-guilherme@gmail.com
-
-*SENHA*
-
-2008
+**SENHA**
+#2008
